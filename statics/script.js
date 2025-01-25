@@ -1,5 +1,10 @@
 const cars = [
-
+    {
+        name: 'Lexus',
+        image: 'statics/cars/is250.jpg',
+        link: 'https://www.instagram.com/p/DFOGNGwN9J8',
+        description: '💥💥LATEST DEAL💥💥 REGISTERED LEXUS IS250 2008',
+    },
 ];
 
 let currentIndex = 0;
